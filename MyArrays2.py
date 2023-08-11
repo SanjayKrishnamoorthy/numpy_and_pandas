@@ -24,6 +24,7 @@ that specifies which dimension to use in the calculation, giving you a
 quick way to perform calculations by row or column in a two-dimensional array.'''
 
 grades.mean(axis=0)
+grades.mean(axis=9)
 
 # So 95.25 above is the average of the first column’s grades (87, 100, 94 and 100)
 

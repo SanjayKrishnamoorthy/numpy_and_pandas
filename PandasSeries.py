@@ -72,9 +72,9 @@ grades.values
 #array([ 87, 100, 94])
 
 
-
 #Series of Strings
 hardware = pd.Series(['Hammer', 'Saw', 'Wrench'])
+hardware = pd.Series(['Saw', 'Wrench'])
 
 ''' 0 Hammer
     1    Saw

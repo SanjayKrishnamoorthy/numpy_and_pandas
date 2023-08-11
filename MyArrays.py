@@ -13,7 +13,7 @@ import numpy as np
 #integers = np.array([x for x in range(2,21,2)])
 
 
-integers = np.array([[1,2,3],[4,5,6]])
+integers = np.array([[1,2,3],[4,5,8]])
 
 #print(integers)
 

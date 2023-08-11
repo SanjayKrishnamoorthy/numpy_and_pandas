@@ -9,7 +9,7 @@ exam_data = {'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Micha
 
 labels = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
 
-
+#123
 #given the data above, create a datafram using the labels as row indexes and perform the following tasks#
 
 
